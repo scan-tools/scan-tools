@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/scan-tools/scan-tools/blob/main/stlogo.jpg" width="1500" alt="scan-tools logo" />
+<img src="https://github.com/scan-tools/scan-tools/blob/main/stlogo2.png" width="600" alt="scan-tools logo" />
 
 </div>
 
